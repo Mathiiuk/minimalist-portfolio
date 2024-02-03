@@ -6,7 +6,7 @@
       "email": "Krepchukmatias@gmail.com",
       "phone": "+34 688888888",
       "url": "",
-      "summary": "+15 años de experiencia como Desarrollador Web. Actualmente trabajo como desarrollador en la Armada Argentina y en una empresa como SysAdmin a medio tiempo administrando servidores. Vivo en Argentina",
+      "summary": "Cuento con experiencia en informática y formación militar en la Armada Argentina. Obtuvé un título terciario con enfoque general en redes, hardware y programación. Me desempeño como programador en la Armada y, por las tardes, soy sysadmin a medio tiempo. Mi enfoque combina disciplina militar con habilidades técnicas para resolver desafíos en tecnología.",
       "location": {
         "address": "",
         "postalCode": "7600",
@@ -32,9 +32,9 @@
         "name": "ARMADA ARGENTINA",
         "position": "Desarrollo",
         "url": "https://www.argentina.gob.ar/armada",
-        "startDate": "2020-03-03",
+        "startDate": "2020-03-01",
         "endDate": null,
-        "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+        "summary": "Formación militar en informática con enfoque en redes, hardware y programación. Actualmente, desempeño el rol de programador, contribuyendo al desarrollo tecnológico de la Armada Argentina y a su actualizacion a nivel sistemas utilizando nuevas tecnologias.",
         "highlights": [
           "Started the company"
         ]
@@ -45,7 +45,7 @@
         "url": "http://www.canopus.com.ar/",
         "startDate": "2022-10-01",
         "endDate": null,
-        "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+        "summary": "Como SysAdmin, lidero la gestión eficiente de Web Hosting, Servidores Virtuales y Dedicados, garantizando la estabilidad de Soluciones Email y la conectividad empresarial. Además, optimizo estrategias de Email Marketing y administro InStorePro para obtener analisis del trafico de las diferentes firmas y sus locales.",
         "highlights": [
           "Started the company"
         ]
@@ -77,7 +77,7 @@
         "location": "Puerto Belgrano",
         "degree": "Técnico Superior en Informática",
         "startDate": "2020-01-01",
-        "endDate": "2022-01-01",
+        "endDate": "2022-07-01",
         "url": "https://www.armada.mil.ar/educacion/esma/index.htm",
         "summary": "Obtuve el título de Técnico Superior en Informática en la Escuela de Suboficiales de la Armada Argentina, ubicada en Puerto Belgrano."
       },
@@ -114,7 +114,7 @@
     "skills": [
       {
         "name": "HTML",
-        "level": "Master",
+        "level": "",
         "keywords": [
           "Desarrollo Web", "Frontend"
         ]
@@ -134,21 +134,14 @@
         ]
       },
       {
-        "name": "Tailwind",
+        "name": "SASS",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
         ]
       },
       {
-        "name": "TypeScript",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-        ]
-      },
-      {
-        "name": "Node",
+        "name": "Docker",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Backend", "JavaScript", "Servidor"
@@ -176,7 +169,7 @@
         ]
       },
       {
-        "name": "Next.js",
+        "name": ".NET",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
@@ -213,35 +206,13 @@
     }],
     "projects": [
       {
-        "name": "mars.codes",
+        "name": "Portfolio",
         "isActive": true,
-        "description": "Historia interactiva con retos de programación para viajar a Marte",
+        "description": "Mi portfolio presentando mis proyectos y un poco de mi vida, diseñado con Astro y utilizando un documento Json",
         "highlights": [
-          "Elige tu propia aventura",
-          "En desarrollo"
+          "Portfolio"
         ],
-        "url": "https://mars.codes"
-      },
-      {
-        "name": "AdventJS",
-        "isActive": true,
-        "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-        "highlights": [
-          "+1 millón de visitas",
-          "Multidioma",
-          "JavaScript & TypeScript"
-        ],
-        "url": "https://advent.js/dev"
-      },
-      {
-        "name": "Codember",
-        "isActive": true,
-        "description": "Juego interactivo de programación con retos y secretos",
-        "highlights": [
-          "+2000 usuarios activos",
-          "Retos para cualquier lenguaje"
-        ],
-        "url": "https://codember.dev"
+        "url": "https://mathiiuk.dev"
       }
     ]
   }

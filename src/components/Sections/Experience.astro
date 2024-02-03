@@ -4,10 +4,10 @@ import Sections from "../Sections.astro";
 import { work } from "@cv";
 ---
 
-<Sections title="Experience">
+<Sections title="Experiencia">
   <ul>
     {
-    work.map(({ name, startDate, endDate, position, summary, highlight }) => {
+    work.map(({ name, startDate, endDate, position, summary }) => {
         const startYear = new Date(startDate).getFullYear()
         const endYear = endDate != null ? new Date(endDate).getFullYear() : "Actual"
         const years = `${startYear} - ${endYear}`
