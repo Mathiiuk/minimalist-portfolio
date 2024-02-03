@@ -62,18 +62,36 @@
         "Awarded 'Volunteer of the Month'"
       ]
     }],
-    "education": [{
-      "institution": "Universitat Oberta de Catalunya",
-      "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Ingeniero de Software",
-      "studyType": "Bachelor",
-      "startDate": "2003-01-01",
-      "endDate": "2009-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    }],
+    "education": [
+      {
+        "name": "Universidad Siglo 21",
+        "location": "Buenos Aires",
+        "degree": "Licenciatura en Informática",
+        "startDate": "2022-08-01",
+        "endDate": null,
+        "url": "https://www.siglo21.edu.ar/",
+        "summary": "Actualmente cursando la Licenciatura en Informática en la Universidad Siglo 21."
+      },
+      {
+        "name": "Escuela de Suboficiales de la Armada Argentina",
+        "location": "Puerto Belgrano",
+        "degree": "Técnico Superior en Informática",
+        "startDate": "2020-01-01",
+        "endDate": "2022-01-01",
+        "url": "https://www.armada.mil.ar/educacion/esma/index.htm",
+        "summary": "Obtuve el título de Técnico Superior en Informática en la Escuela de Suboficiales de la Armada Argentina, ubicada en Puerto Belgrano."
+      },
+      {
+        "name": "Escuela de Educación Técnica N°5 Mar del Plata",
+        "location": "Mar del Plata",
+        "degree": "Técnico Personal y Profesional en Informática",
+        "startDate": "2012-01-01",
+        "endDate": "2019-01-01",
+        "url": "INSERT_LINK_TO_YOUR_SCHOOL",
+        "summary": "Completé mis estudios de Técnico Personal y Profesional en Informática en la Escuela de Educación Técnica N°5 de Mar del Plata."
+      }
+    ]
+    ,
     "awards": [{
       "title": "Award",
       "date": "2014-11-01",
@@ -224,37 +242,6 @@
           "Retos para cualquier lenguaje"
         ],
         "url": "https://codember.dev"
-      },
-      {
-        "name": "codi.link",
-        "isActive": true,
-        "description": "Playground de código HTML, CSS y JavaScript para compartir",
-        "highlights": [
-          "100k visitas al mes",
-          "Desarrollado por la comunidad"
-        ],
-        "url": "https://codi.link",
-        "github": "https://github.com/midudev/codi.link"
-      },
-      {
-        "name": "Pruebas Técnicas",
-        "isActive": true,
-        "description": "Lista de pruebas técnicas de empresas para practicar programación",
-        "highlights": [
-          "100% gratuito",
-          "+500 soluciones de la comunidad"
-        ],
-        "url": "https://pruebastecnicas.com",
-        "github": "https://github.com/midudev/pruebas-tecnicas"
-      },
-      {
-        "name": "miduConf",
-        "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-        "highlights": [
-          "+15k tickets repartidos",
-          "+50k espectadores en directo"
-        ],
-        "url": "https://miduconf.com"
       }
     ]
   }
